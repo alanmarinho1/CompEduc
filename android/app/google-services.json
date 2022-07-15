@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "935646384411",
+    "project_id": "compedu-beb27",
+    "storage_bucket": "compedu-beb27.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935646384411:android:6684f0a00423a44ec003be",
+        "android_client_info": {
+          "package_name": "com.compedu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "935646384411-1kcf3s9cdm7hf9vndmj28q179stkmb78.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDU0yna32PwZVJzkSRAOJLsACCN3Dkk-Gg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "935646384411-1kcf3s9cdm7hf9vndmj28q179stkmb78.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935646384411:android:d28890d259b5a170c003be",
+        "android_client_info": {
+          "package_name": "com.compeduc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "935646384411-1kcf3s9cdm7hf9vndmj28q179stkmb78.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDU0yna32PwZVJzkSRAOJLsACCN3Dkk-Gg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "935646384411-1kcf3s9cdm7hf9vndmj28q179stkmb78.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
